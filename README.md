@@ -1,1 +1,1 @@
- Include explanations for your class design and implementation, as well as each class attribute, method, and any limitations that you added.
+I used np.loadtxt to load the files, np.sort and np.argsort to sort the regular season data, scipy.stats.norm.stats to find the statistical mean, variance, skew, and kurtosis for the field goals made and field goals attempted, and scipy.stats.ttest_1samp to perform a regular t-test on field goals made and field goals attempted.I didn't add any limitations to the code.
